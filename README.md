@@ -44,6 +44,17 @@
   - [Remix IDE](https://remix.ethereum.org/) - 在线智能合约开发环境
   - [Hardhat 教程](https://hardhat.org/tutorial/)
 
+
+### 📚 电子书资源
+- **以太坊技术详解**
+  - [《精通以太坊》中文版](https://github.com/inoutcode/ethereum_book/tree/master) - 全面深入的以太坊技术指南
+  - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Andreas M. Antonopoulos 著作
+  - [《区块链技术指南》](https://yeasy.gitbook.io/blockchain_guide/) - 开源区块链技术书籍
+
+### 📖 学习路径
+- **从入门到精通**
+  - [以太坊开发者路线图](https://roadmap.sh/blockchain) - 完整的学习路径
+  - [Web3 开发者手册](https://web3.career/web3-developer-handbook) - 实用开发指南
 ---
 
 ## 📝 智能合约开发

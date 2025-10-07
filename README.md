@@ -27,6 +27,8 @@
 ### 🎬 视频教程
 - [北京大学肖臻老师《区块链技术与应用》公开课](https://www.bilibili.com/video/BV1Vt411X7JF/?spm_id_from=333.1387.homepage.video_card.click&vd_source=0bc644df0f713fa91d8fd7230ec443f4) - 非常适合区块链入门和扫盲，推荐先看这个
 
+- [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ) - freeCodeCamp 制作的入门视频，总共32小时，如果能跟着一步步操作下来，就可以简单入门了
+
 ---
 
 ## ⚡ 以太坊

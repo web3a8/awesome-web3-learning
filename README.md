@@ -70,6 +70,7 @@
   - [Solidity 官方文档](https://docs.soliditylang.org/zh/latest/) - 官方中文文档
   - [Solidity by Example](https://solidity-by-example.org/) - 代码示例学习
   - [CryptoZombies](https://cryptozombies.io/zh/course/) - 游戏化 Solidity 教程
+  - [openzeppelin 文档](https://ethernaut.openzeppelin.com) - openzeppelin 制作的 solidity文档
 
 ### 🛠️ 开发框架
 - **Hardhat、Truffle、Foundry**

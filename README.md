@@ -115,6 +115,10 @@
   - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - DeFi 安全练习
   - [Capture the Ether](https://capturetheether.com/) - 以太坊安全游戏
 
+### 🔨 工具推荐
+- **适用于开发人员的工具**
+  - [mvlog.rs](https://mevlog.rs/) - 搜索查询 EVM 交易的工具，很强大，适合开发者使用
+
 ---
 
 ## 🤝 贡献指南
